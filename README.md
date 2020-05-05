@@ -1,5 +1,6 @@
 whoami
 ======
+test
 
 Simple HTTP docker service that serves a a webapp for testing
 ## Purpose

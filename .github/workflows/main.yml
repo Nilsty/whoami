@@ -27,4 +27,6 @@ jobs:
       with:
         humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
         organization: robot-tim-org
+        humanitec-registry: staging-registry.humanitec.io
+        humanitec-api: staging-api.humanitec.io
 
